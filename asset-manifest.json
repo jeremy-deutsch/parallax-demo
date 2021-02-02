@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/parallax-demo/static/css/main.fd58528f.chunk.css",
+    "main.js": "/parallax-demo/static/js/main.bf4d7f8b.chunk.js",
+    "main.js.map": "/parallax-demo/static/js/main.bf4d7f8b.chunk.js.map",
+    "runtime-main.js": "/parallax-demo/static/js/runtime-main.9d60e7fa.js",
+    "runtime-main.js.map": "/parallax-demo/static/js/runtime-main.9d60e7fa.js.map",
+    "static/js/2.e607c67d.chunk.js": "/parallax-demo/static/js/2.e607c67d.chunk.js",
+    "static/js/2.e607c67d.chunk.js.map": "/parallax-demo/static/js/2.e607c67d.chunk.js.map",
+    "static/js/3.fdec271d.chunk.js": "/parallax-demo/static/js/3.fdec271d.chunk.js",
+    "static/js/3.fdec271d.chunk.js.map": "/parallax-demo/static/js/3.fdec271d.chunk.js.map",
+    "index.html": "/parallax-demo/index.html",
+    "static/css/main.fd58528f.chunk.css.map": "/parallax-demo/static/css/main.fd58528f.chunk.css.map",
+    "static/js/2.e607c67d.chunk.js.LICENSE.txt": "/parallax-demo/static/js/2.e607c67d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/parallax-demo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d60e7fa.js",
+    "static/js/2.e607c67d.chunk.js",
+    "static/css/main.fd58528f.chunk.css",
+    "static/js/main.bf4d7f8b.chunk.js"
+  ]
+}
